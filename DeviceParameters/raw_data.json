@@ -1,0 +1,358 @@
+{
+    "QubitLr": {
+        "value": 16.4,
+        "unit": "pH"
+    },
+    "QubitLl": {
+        "value": 16.4,
+        "unit": "pH"
+    },
+    "QubitLz": {
+        "value": 799.801,
+        "unit": "pH"
+    },
+    "QubitJr": {
+        "value": 0.1294042,
+        "unit": "um"
+    },
+    "QubitJl": {
+        "value": 0.1485198,
+        "unit": "um"
+    },
+    "QubitJxAvg": {
+        "value": 0.138962,
+        "unit": "um"
+    },
+    "QubitJxAlpha": {
+        "value": 0.340768,
+        "unit": "um"
+    },
+    "QubitJxAvgNoise": {
+        "value": 0.01,
+        "unit": "um"
+    },
+    "QubitJxAsymmetry": {
+        "value": 0.0687801,
+        "unit": "SIUNIT"
+    },
+    "QubitJ2": {
+        "value": 0.407791,
+        "unit": "um"
+    },
+    "QubitJ1": {
+        "value": 0.407791,
+        "unit": "um"
+    },
+    "QubitJavg": {
+        "value": 0.407791,
+        "unit": "um"
+    },
+    "QubitJzAvgNoise": {
+        "value": 0.03,
+        "unit": "um"
+    },
+    "QubitSc": {
+        "value": 60.0,
+        "unit": "fF / um^2"
+    },
+    "QubitJc": {
+        "value": 3.0,
+        "unit": "uA / um^2"
+    },
+    "QubitCagate": {
+        "value": 0.013700000000000002,
+        "unit": "fF"
+    },
+    "QubitCbgate": {
+        "value": 0.178,
+        "unit": "fF"
+    },
+    "QubitCcgate": {
+        "value": 1.78e-06,
+        "unit": "fF"
+    },
+    "QubitCdgate": {
+        "value": 0.00591,
+        "unit": "fF"
+    },
+    "QubitCegate": {
+        "value": 0.0,
+        "unit": "fF"
+    },
+    "QubitCfgate": {
+        "value": 0.0,
+        "unit": "fF"
+    },
+    "QubitCcd": {
+        "value": 0.41515,
+        "unit": "fF"
+    },
+    "QubitCad": {
+        "value": 3.61442,
+        "unit": "fF"
+    },
+    "QubitCac": {
+        "value": 0.0465955,
+        "unit": "fF"
+    },
+    "QubitCab": {
+        "value": 14.2399,
+        "unit": "fF"
+    },
+    "QubitCgd": {
+        "value": 44.1279,
+        "unit": "fF"
+    },
+    "QubitCgc": {
+        "value": 0.248219,
+        "unit": "fF"
+    },
+    "QubitCga": {
+        "value": 141.383,
+        "unit": "fF"
+    },
+    "QubitCgb": {
+        "value": 89.9976,
+        "unit": "fF"
+    },
+    "QubitQ1": {
+        "value": 0,
+        "unit": "SIUNIT"
+    },
+    "QubitQ2": {
+        "value": 0,
+        "unit": "SIUNIT"
+    },
+    "QubitQ3": {
+        "value": 0,
+        "unit": "SIUNIT"
+    },
+    "QubitQ4": {
+        "value": 0,
+        "unit": "SIUNIT"
+    },
+    "QubitQ5": {
+        "value": 0,
+        "unit": "SIUNIT"
+    },
+    "QubitQ6": {
+        "value": 0,
+        "unit": "SIUNIT"
+    },
+    "Qubitfz": {
+        "value": 0.5,
+        "unit": "SIUNIT"
+    },
+    "Qubitfx": {
+        "value": 0.0,
+        "unit": "SIUNIT"
+    },
+    "QubitMzz": {
+        "value": -1.6496,
+        "unit": "SIUNIT"
+    },
+    "QubitMzx": {
+        "value": -0.0183,
+        "unit": "SIUNIT"
+    },
+    "QubitMxz": {
+        "value": 0.00913,
+        "unit": "SIUNIT"
+    },
+    "QubitMxx": {
+        "value": 2.0918,
+        "unit": "SIUNIT"
+    },
+    "QubitSVx": {
+        "value": 7.9e-17,
+        "unit": "SIUNIT"
+    },
+    "QubitSVz": {
+        "value": 7.9e-17,
+        "unit": "SIUNIT"
+    },
+    "QubitfzBiasFc": {
+        "value": 32000,
+        "unit": "Hz"
+    },
+    "QubitfxBiasFc": {
+        "value": 32000,
+        "unit": "Hz"
+    },
+    "QubitCVxz": {
+        "value": 0,
+        "unit": "SIUNIT"
+    },
+    "QubitAVz": {
+        "value": 2.021,
+        "unit": "uV/sqrt(Hz)"
+    },
+    "QubitAVx": {
+        "value": 2.021,
+        "unit": "uV/sqrt(Hz)"
+    },
+    "QubitAfz": {
+        "value": 8.72029,
+        "unit": "uPhi0/sqrt(Hz)"
+    },
+    "QubitAfx": {
+        "value": 5.113219774097271,
+        "unit": "uPhi0/sqrt(Hz)"
+    },
+    "QubitCfxz": {
+        "value": 0.45713,
+        "unit": "SIUNIT"
+    },
+    "Qubitalpha": {
+        "value": 0.91,
+        "unit": "SIUNIT"
+    },
+    "Qubitgammare": {
+        "value": 3,
+        "unit": "SIUNIT"
+    },
+    "QubitNumLevels": {
+        "value": 3,
+        "unit": "SIUNIT"
+    },
+    "QubitBfz": {
+        "value": 2.7e-30,
+        "unit": "SIUNIT"
+    },
+    "QubitBfx": {
+        "value": 9.3e-31,
+        "unit": "SIUNIT"
+    },
+    "Qubitfgamma": {
+        "value": 1,
+        "unit": "SIUNIT"
+    },
+    "QubitBV": {
+        "value": 0,
+        "unit": "SIUNIT"
+    },
+    "QubitVgamma": {
+        "value": 1,
+        "unit": "SIUNIT"
+    },
+    "TOhmic": {
+        "value": 0.01,
+        "unit": "SIUNIT"
+    },
+    "TRoom": {
+        "value": 300,
+        "unit": "SIUNIT"
+    },
+    "T3K": {
+        "value": 4.0,
+        "unit": "SIUNIT"
+    },
+    "TStill": {
+        "value": 0.5,
+        "unit": "SIUNIT"
+    },
+    "TMXC": {
+        "value": 0.01,
+        "unit": "SIUNIT"
+    },
+    "QubitCapAtt3K": {
+        "value": 20,
+        "unit": "SIUNIT"
+    },
+    "QubitCapAttStill": {
+        "value": 10,
+        "unit": "SIUNIT"
+    },
+    "QubitCapAttMXC": {
+        "value": 20,
+        "unit": "SIUNIT"
+    },
+    "QubitFzAtt3K": {
+        "value": 20,
+        "unit": "SIUNIT"
+    },
+    "QubitFzAttStill": {
+        "value": 10,
+        "unit": "SIUNIT"
+    },
+    "QubitFzAttMXC": {
+        "value": 10,
+        "unit": "SIUNIT"
+    },
+    "QubitFxAtt3K": {
+        "value": 20,
+        "unit": "SIUNIT"
+    },
+    "QubitFxAttStill": {
+        "value": 10,
+        "unit": "SIUNIT"
+    },
+    "QubitFxAttMXC": {
+        "value": 3,
+        "unit": "SIUNIT"
+    },
+    "QubitLbz": {
+        "value": 2.5e-11,
+        "unit": "SIUNIT"
+    },
+    "QubitLbx": {
+        "value": 2.5e-11,
+        "unit": "SIUNIT"
+    },
+    "QubitMbz": {
+        "value": 1.87e-12,
+        "unit": "SIUNIT"
+    },
+    "QubitMbzx": {
+        "value": 1.9e-12,
+        "unit": "SIUNIT"
+    },
+    "QubitMbx": {
+        "value": 2.4e-12,
+        "unit": "SIUNIT"
+    },
+    "QubitResfr": {
+        "value": 0.0,
+        "unit": "Phi_0"
+    },
+    "QubitResPhotonNumber": {
+        "value": 1,
+        "unit": "SIUNIT"
+    },
+    "QubitResQe": {
+        "value": 7024,
+        "unit": "SIUNIT"
+    },
+    "QubitResQualityFactor": {
+        "value": 10000,
+        "unit": "SIUNIT"
+    },
+    "QubitResL": {
+        "value": 238.7,
+        "unit": "pH"
+    },
+    "QubitResIc": {
+        "value": 1187,
+        "unit": "nA"
+    },
+    "QubitResLength": {
+        "value": 0.0033640000000000002,
+        "unit": "m"
+    },
+    "QubitResc": {
+        "value": 114906000.0,
+        "unit": "SIUNIT"
+    },
+    "QubitResZ0": {
+        "value": 52.442,
+        "unit": "SIUNIT"
+    },
+    "QubitResNumLevels": {
+        "value": 3,
+        "unit": "SIUNIT"
+    },
+    "QubitResonatorMutual": {
+        "value": 61.1,
+        "unit": "pH"
+    }
+}
